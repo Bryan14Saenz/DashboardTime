@@ -6,9 +6,6 @@ const btnMonthly = document.getElementById('monthly');
 // Fragment
 const fragment = document.createDocumentFragment();
 
-// Activación de la clase
-btnWeekly.classList.add('active');
-
 // Fetch
 fetch('data.json')
   .then((response) => response.json())
