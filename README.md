@@ -44,15 +44,6 @@ Además, se simula una pequeña interacción donde el usuario puede alternar ent
 
 ---
 
-## 🛠️ En desarrollo
-
-- [ ] Incorporar tarjetas de actividad (Work, Play, Study, etc.)
-- [ ] Conexión con archivo JSON para datos dinámicos.
-- [ ] Estilos responsivos para móviles y tablets.
-- [ ] Mejorar accesibilidad y navegación con teclado.
-
----
-
 ## 🧑‍💻 Autor Bryan14Saenz
 
 > “Programa no para resolver problemas, sino para crear soluciones.”
